@@ -1,32 +1,13 @@
-/* Created By Catafrancia Mapper [School] */
+/* Created By Catafrancia Mapper */
 
 
+body{
 
+background-image: url(https://i.postimg.cc/J7Yw2WB6/win95bck.png);
+}
 
-h1, h2{
+h2, p{
 
-    color:red;
-    padding:5px;
-    font-family: Arial, Helvetica, sans-serif;
-    
-    }
-    
-    a{
-    
-    color:orange;
-    padding:7px;
-    top:15;
-    font-family: Arial, Helvetica, sans-serif;
-    
-    }
-    
-    
-    
-    
-    
-    /* Wallpaper */
-    
-    body{
-        background-color:#0000FF;
-        font-family: Arial, Helvetica, sans-serif;
-    }
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
